@@ -1,0 +1,7 @@
+{
+  "queueUrl": "https://sqs.us-west-2.amazonaws.com/1234567890/test-queue",
+  "region": "us-west-2",
+  "accessKeyId": "myAccessKeyId",
+  "secretAccessKey": "mySecretAccessKey",
+  "sessionToken": "mySessionToken"
+}
